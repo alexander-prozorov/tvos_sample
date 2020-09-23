@@ -14,7 +14,7 @@ steps:
   inputs:
     actions: 'build'
     configuration: 'Release'
-    sdk: 'iphoneos'
+    sdk: 'tvos'
     xcodeVersion: '11'
     packageApp: false
     destinationPlatformOption: 'tvOS'
