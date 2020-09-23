@@ -18,4 +18,4 @@ steps:
     xcodeVersion: '11'
     packageApp: false
     destinationPlatformOption: 'tvOS'
-    destinationSimulators: 'iPhone 8'
+    destinationSimulators: 'Apple TV'
