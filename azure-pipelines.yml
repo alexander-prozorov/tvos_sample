@@ -15,4 +15,4 @@ steps:
     actions: 'build'
     sdk: 'appletvos'
     packageApp: false
-    destinationPlatformOption: 'iOS'
+    destinationPlatformOption: 'tvOS'
