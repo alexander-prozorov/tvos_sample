@@ -16,4 +16,4 @@ steps:
     sdk: 'appletvos'
     packageApp: false
     destinationPlatformOption: 'tvOS'
-    destinationSimulators: 'Apple TV 4K'
+    destinationSimulators: 'Apple TV 4K,OS=13.4'
