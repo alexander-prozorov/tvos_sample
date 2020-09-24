@@ -13,6 +13,8 @@ steps:
 - task: XcodeSimulators@5
   inputs:
     actions: 'build'
+    sdk: 'appletvos'
     xcodeVersion: '11'
     packageApp: false
     destinationPlatformOption: 'tvOS'
+    destinationSimulators_tvOS: 'Apple TV 4K'
