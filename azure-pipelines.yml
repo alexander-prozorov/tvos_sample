@@ -10,7 +10,7 @@ pool:
   vmImage: 'macos-latest'
 
 steps:
-- task: XcodeSimulators@5
+- task: Xcode@5
   inputs:
     actions: 'build'
     sdk: 'appletvos'
